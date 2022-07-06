@@ -28,6 +28,6 @@
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
     "jquery": "^3.5.1",
-    "select2": "4.0.2"
+    "select2": "4.0.6"
   }
 }
